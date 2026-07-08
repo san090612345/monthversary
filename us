@@ -179,6 +179,24 @@ I love you more than I can put into words, and i can't wait to see you jldi seee
 
 "If I could relive this month all over again, I'd still choose you. Every single time. ❤️"
 
+<section class="reasons">
+
+    <h2>15 Reasons Why I Love You ❤️</h2>
+
+    <div class="reasonBox">
+
+        <p id="reasonText">
+            Click the button to reveal the first reason. 🤍
+        </p>
+
+        <button onclick="nextReason()">
+            Open Another Love Note 💌
+        </button>
+
+    </div>
+
+</section>
+
 <section class="ending">
 
 <h1>
