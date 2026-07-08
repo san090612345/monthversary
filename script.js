@@ -45,7 +45,14 @@ function nextReason() {
     document.getElementById("reasonText").innerHTML = reasons[currentReason];
     currentReason = (currentReason + 1) % reasons.length;
 }
-document.getElementById("playMusic").addEventListener("click", function () {
-    document.getElementById("bgMusic").play();
-    this.style.display = "none";
+document.getElementById("playMusic").addEventListener("click", async function () {
+    const music = document.getElementById("bgMusic");
+
+    try {
+        await music.play();
+        this.style.display = "none";
+    } catch (err) {
+        console.error(err);
+        alert("Music couldn't play.");
+    }
 });
