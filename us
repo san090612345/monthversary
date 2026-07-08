@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy One Monthversary babyyy  ❤️</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Poppins:wght@300;400;600&family=Caveat:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="hearts"></div>
+
+<section class="hero">
+
+<div class="overlay">
+
+<h1>Happy One Month ❤️</h1>
+
+<h2>Shlok</h2>
+
+<p class="date">Since 9 June ∞ Forever</p>
+
+<p class="quote">
+"Every love story is beautiful,
+<br>
+but ours is my favorite."
+</p>
+
+<a href="#story">
+<button>
+Open Our Little World 🤍
+</button>
+</a>
+
+</div>
+
+</section>
+
+<section id="story" class="story">
+
+<h2>Our Story</h2>
+
+<div class="timeline">
+
+<div class="card">
+<h3>🌸 We Met</h3>
+<p>One random day that changed everything.</p>
+</div>
+
+<div class="card">
+<h3>💬 Started Talking</h3>
+<p>Long conversations became my favorite part of every day.</p>
+</div>
+
+<div class="card">
+<h3>🤍 Best Friends</h3>
+<p>You slowly became my comfort person.</p>
+</div>
+
+<div class="card">
+<h3>❤️ 9 June</h3>
+<p>The day we became us.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="gallery">
+
+<h2>Our Memories</h2>
+
+<div class="photos">
+
+<img src="images/photo1.jpg">
+
+<img src="images/photo2.jpg">
+
+<img src="images/photo3.jpg">
+
+<img src="images/photo4.jpg">
+
+<img src="images/photo5.jpg">
+
+<img src="images/photo6.jpg">
+
+</div>
+
+</section>
+
+<section class="counter">
+
+<h2>Together Since</h2>
+
+<div id="countdown"></div>
+
+</section>
+
+<section class="letter">
+
+<h2>A Letter For You 💌</h2>
+
+<p>
+
+Dear boyfieee,
+
+<br><br>
+
+Its funny how life changes so quietly. kuch time phele you were just someone i know from college aur abhi you have became 
+everything for me to whom i can share everthing with my happiness , my comfort , disomfort , pain , laugh everthing.
+I have never imagined conversations which we have started from bike rides , late-night calls , sharing cute little moments
+will become one of my favourite memories.
+
+Somehow you have became my home like person
+
+<br><br>
+
+Thank you for being patient with me , for making my ordinary days special , for making me laugh even when i am annoyed ,
+for accepting every version of me- even jb mai itta gussa krti choti choti cheezo pe tb bhi but tu hi dilata h lekin gussa bhi
+and for loving me itta saaraaaaaaa hehee:)
+
+
+<br><br>
+
+Distance isn't easy,
+
+but every message,
+
+every call,
+
+and every memory reminds me
+
+that you're worth every kilometer.
+
+
+Being in long distance at the starting of our relationship is something both of us never imagined .I miss seeing you, 
+I miss the random moments we shared, I miss bike pe saath ghumna back hug karna tereko aur sab kuch but theek ab to 
+thodu si hi time ki baat hai fir bahut tight se hug karungi tereko bahut sarri kissi dungi passionate wali bhiiii.
+
+And there's one thing this month has taught me 
+it's that love isn't measured by how close we are physically
+it's measured by the effort we make to stay close to each other's hearts.
+
+<br><br>
+And You make my ordinary days feel special. Every notification from you makes me smile.
+Every call becomes the best part of my day. Even the silence when we're together somehow feels comforting.
+
+Thank you for choosing me.
+
+Thank you for making me feel seen , heard, and cared for.
+
+Thank you for becoming someone I can call home.
+
+This is only our first month, and I know we still have so much to learn about each other 
+We'll have disagreements, busy days, boring days. But I hope tab bhi , we keep choosing eachother , 
+just like we did on 9 June.
+
+Mere ko nhi pta future kaisa hoga kya hoga , but i know one thing for sure:
+
+tu usme mere saath jarror hoga .
+
+Here's to more memories, more laughter, more bike rides, more sunsets, more random conversations, more adventures, 
+and more love with you.
+
+Happy One Month, Shlokkkkk.
+
+I love you more than I can put into words, and i can't wait to see you jldi seee.
+
+<br><br>
+
+
+ forever yours,
+ Sanika ❤️
+
+
+"If I could relive this month all over again, I'd still choose you. Every single time. ❤️"
+
+<section class="ending">
+
+<h1>
+
+Thank You For Choosing Me ❤️
+
+</h1>
+
+<p>
+
+Here's to countless memories together...
+
+Forever.
+
+</p>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
